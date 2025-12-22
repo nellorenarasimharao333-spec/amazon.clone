@@ -3,7 +3,23 @@
     font-family: Arial;
     border: border-box;
 
+    border: border-box;
+
 }
+
+.disclaimer-banner {
+    background-color: #ffcc00;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    border-bottom: 2px solid #e77600;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
 
 .navbar {
     height: 60px;
